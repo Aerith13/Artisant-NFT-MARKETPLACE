@@ -60,7 +60,7 @@ const Home: NextPage = () => {
                 </Link>
                 <Link
                   className={styles.secondaryCta}
-                  href="https://github.com/thirdweb-example/marketplace-v3"
+                  href="https://github.com/Aerith13/artisant"
                   target="_blank"
                 >
                   About Us
